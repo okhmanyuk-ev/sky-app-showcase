@@ -2,7 +2,7 @@
     {
         "type": "showcase",
         "showcase_type": "url",
-        "url": "localhost"
+        "url": "localhost/apps.json"
     },
     {
         "type": "app",
