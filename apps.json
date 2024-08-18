@@ -11,13 +11,5 @@
         "repository": "sky-app-examples",
         "branch": "main",
         "filename": "apps.json"
-    },
-    {
-        "type": "app",
-        "app_type": "github",
-        "user": "okhmanyuk-ev",
-        "repository": "sky-app-examples",
-        "branch": "main",
-        "filename": "scratch_triangle.lua"
     }
 ]
