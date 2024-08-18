@@ -1,7 +1,7 @@
 [
     {
-        "type": "source",
-        "source_type": "url",
+        "type": "showcase",
+        "showcase_type": "url",
         "url": "localhost"
     },
     {
