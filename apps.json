@@ -1,7 +1,12 @@
 [
     {
-        "name": "scratch triangle",
-        "type": "github",
+        "type": "source",
+        "source_type": "url",
+        "url": "localhost"
+    },
+    {
+        "type": "app",
+        "app_type": "github",
         "user": "okhmanyuk-ev",
         "repository": "sky-app-examples",
         "branch": "main",
